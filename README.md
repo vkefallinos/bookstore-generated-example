@@ -44,3 +44,4 @@ While learning to set up the stack and developing a diverse range of application
 
           
           # bookstore-generated-example
+# bookstore-generated-example
